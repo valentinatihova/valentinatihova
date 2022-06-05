@@ -17,13 +17,13 @@
 
 
 <tr>
-      <td><a href="https://github.com/valentinatihova/DA_projects"><b>DA_projects</b></a></td>
+      <td><a href="https://github.com/valentinatihova/DA_projects"><b>Data Analyst projects</b></a></td>
       <td><a href="https://github.com/valentinatihova/DA_projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/valentinatihova/DA_projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/valentinatihova/DA_projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/valentinatihova/DA_projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/valentinatihova/DA_projects/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentinatihova/DA_projects?style=flat-square&labelColor=343b41"/></a></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/valentinatihova/DS_projects"><b>DS_projects</b></a></td>
+      <td><a href="https://github.com/valentinatihova/DS_projects"><b>Data Science projects</b></a></td>
       <td><a href="https://github.com/valentinatihova/DS_projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/valentinatihova/DS_projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/valentinatihova/DS_projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/valentinatihova/DS_projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/valentinatihova/DS_projects/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentinatihova/DS_projects?style=flat-square&labelColor=343b41"/></a></td>
