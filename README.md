@@ -11,7 +11,11 @@ Welcome to my page!
 - 💬 Talk to me about films (find my Film review on [kinopoisk](https://www.kinopoisk.ru/user/5000538/)), python, data visials
 - 👯 We can connect to play some games of Chess
 - 📙 Check out my [Resume](https://career.habr.com/valentina-tihova)
-- ⚡ Fun fact: Аз говоря български 
+- ⚡ Fun fact: Аз говоря български 🇧🇬
+- ⭐ Top of my fav Data drawing:
+  - [Dear Data by Giorgia Lupi](http://www.dear-data.com/theproject)
+  - [Datawrapper by Lisa Charlotte Rost](https://lisacharlottemuth.com/)
+  - [Flowingdata by Nathan Yau](https://flowingdata.com/)
 
 
 ### My Repositories
@@ -53,3 +57,7 @@ You can reach me at the email in my GitHub profile. Follow my Socials!
 [<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/linkedin.png" height="40em" align="center" alt="Follow Valentina on LinkedIn" title="Follow me on LinkedIn"/>](https://linkedin.com/in/valentina-tikhova/)
 [<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/telegram.png" height="40em" align="center" alt="Follow Valentina on Telegram" title="Follow me on Telegram"/>](https://t.me/Tikhova_Valentina)
 [<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/instagram.png" height="40em" align="center" alt="Follow Valentina on Instagram" title="Follow me on Instagram"/>](https://instagram.com/valentina.tihova)
+
+
+
+#### 
