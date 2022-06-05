@@ -37,7 +37,6 @@ I'm Valentina, Data Analyst from St. Petersburg, Russia
 <h3>How to rich me</h3>
 You can reach me at the email in my GitHub profile. Follow my Socials!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Valentina on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/valentina-tikhova/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Valentina on Telegram" title="Follow Raymo111 on Twitter"/>](https://t.me/Tikhova_Valentina)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Valentina on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/valentina.tihova)
-
+[<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/linkedin.png" height="40em" align="center" alt="Follow Valentina on LinkedIn" title="Follow Valentina on LinkedIn"/>](https://linkedin.com/in/valentina-tikhova/)
+[<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/telegram.png" height="40em" align="center" alt="Follow Valentina on Telegram" title="Follow Valentina on Telegram"/>](https://t.me/Tikhova_Valentina)
+[<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/instagram.png" height="40em" align="center" alt="Follow Valentina on Instagram" title="Follow Valentina on Instagram"/>](https://instagram.com/valentina.tihova)
