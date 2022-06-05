@@ -4,7 +4,7 @@
 
 Welcome to my page!
 
-### About Me:
+### About Me
 - 🏦 I'm Valentina, Data Analyst from St. Petersburg, Russia 
 - 💻 I use daily **.py**,  **.sql**
 - 📖 I am currently reading [**A history of God**](https://www.litres.ru/karen-armstrong-2/istoriya-boga-4000-let-iskaniy-v-iudaizme-hristianstve-i/chitat-onlayn/) by Karen Armstrong
@@ -14,7 +14,7 @@ Welcome to my page!
 - ⚡ Fun fact: Аз говоря български 
 
 
-<h3>My Repositories</h3>
+### My Repositories
 
 <table width=100%>
   <thead align="center">
@@ -26,7 +26,6 @@ Welcome to my page!
     </tr>
   </thead>
   <tbody>
-
 
 <tr>
       <td><a href="https://github.com/valentinatihova/DA_projects"><b>Data Analyst projects</b></a></td>
@@ -43,9 +42,12 @@ Welcome to my page!
   </tbody>
 </table>
 
-<h3>Tools I use:</h3>
+### Tools I use
 ...
-<h3>How to rich me</h3>
+
+
+
+### How to rich me
 You can reach me at the email in my GitHub profile. Follow my Socials!
 
 [<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/linkedin.png" height="40em" align="center" alt="Follow Valentina on LinkedIn" title="Follow me on LinkedIn"/>](https://linkedin.com/in/valentina-tikhova/)
