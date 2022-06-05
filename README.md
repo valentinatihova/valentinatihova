@@ -47,7 +47,17 @@ Welcome to my page!
 </table>
 
 ### Tools I use
-...
+<p align="left">
+<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25"/>
+<img src="https://img.shields.io/badge/OraclePL/SQL-282C34?logo=Oracle&logoColor=3178C6" alt="OraclePL/SQL logo" title="OraclePL/SQL" height="25"/>
+<img src="https://img.shields.io/badge/SAS-282C34?logo=SAS5&logoColor=E34F26" alt="SAS logo" title="SAS" height="25" />  
+<img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=1572B6" alt="Git logo" title="Git" height="25" />
+<img src="https://img.shields.io/badge/Grafana-282C34?logo=Grafana&logoColor=3DDC84" alt="Grafana logo" title="Grafana" height="25" />
+<img src="https://img.shields.io/badge/PowerBI-282C34?logo=PowerBI&logoColor=764ABC" alt="PowerBI logo" title="PowerBI" height="25" />
+<img src="https://img.shields.io/badge/Tableau-282C34?logo=Tableau&logoColor=4B32C3" alt="Tableau logo" title="Tableau" height="25" />
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VisualStudioCode logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/Windows Azure-282C34?logo=WindowsAzure&logoColor=61DAFB" alt="Windows Azure logo" title="Windows Azure" height="25" />
+</p>
 
 
 
