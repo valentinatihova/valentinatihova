@@ -3,7 +3,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=valentinatihova.valentinatihova)
 
 Welcome to my page!
-I'm Valentina, Data Analyst from St. Petersburg, Russia
+
+### About Me:
+- 🏦 I'm Valentina, Data Analyst from St. Petersburg, Russia 
+- 💻 I use daily **.py**,  **.sql**
+- 📖 I am currently reading [**A history of God**](https://www.litres.ru/karen-armstrong-2/istoriya-boga-4000-let-iskaniy-v-iudaizme-hristianstve-i/chitat-onlayn/) by Karen Armstrong
+- 💬 Talk to me about films (find my Film review on [kinopoisk](https://www.kinopoisk.ru/user/5000538/)), python, data visials
+- 👯 We can connect to play some games of Chess ♟
+- ⚡ Fun fact: Аз говоря български 
+
 
 <h3>My Repositories</h3>
 
