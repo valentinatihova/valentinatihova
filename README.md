@@ -42,6 +42,8 @@ Welcome to my page!
   </tbody>
 </table>
 
+<h3>Tools I use:</h3>
+...
 <h3>How to rich me</h3>
 You can reach me at the email in my GitHub profile. Follow my Socials!
 
