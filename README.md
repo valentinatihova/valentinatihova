@@ -9,7 +9,6 @@ Welcome to my page!
 - 💻 I use daily **.py**,  **.sql**
 - 📖 I am currently reading [**A history of God**](https://www.litres.ru/karen-armstrong-2/istoriya-boga-4000-let-iskaniy-v-iudaizme-hristianstve-i/chitat-onlayn/) by Karen Armstrong
 - 💬 Talk to me about films (find my Film review on [kinopoisk](https://www.kinopoisk.ru/user/5000538/)), python, data visials
-- 👯 We can connect to play some games of Chess
 - 📙 Check out my [Resume](https://career.habr.com/valentina-tihova)
 - ⚡ Fun fact: Аз говоря български 🇧🇬
 - ⭐ Top of my fav Data drawing:
