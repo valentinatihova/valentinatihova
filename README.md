@@ -9,7 +9,6 @@ Welcome to my page!
 - 💻 I use daily **.py**,  **.sql**
 - 💬 Talk to me about films (find my Film review on [kinopoisk](https://www.kinopoisk.ru/user/5000538/)), python, data visials
 - 📙 Check out my [Resume](https://career.habr.com/valentina-tihova)
-- ⚡ Fun fact: Аз говоря български 🇧🇬
 - ⭐ Top of my fav Data drawing:
   - [Dear Data by Giorgia Lupi](http://www.dear-data.com/theproject)
   - [Datawrapper by Lisa Charlotte Rost](https://lisacharlottemuth.com/)
