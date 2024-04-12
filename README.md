@@ -8,7 +8,7 @@ Welcome to my page!
 - 🏦 I'm Valentina, Data Analyst from St. Petersburg, Russia 
 - 💻 I use daily **.py**,  **.sql**
 - 💬 Talk to me about films (find my Film review on [kinopoisk](https://www.kinopoisk.ru/user/5000538/)), python, data visials
-- 📙 Check out my [Resume](https://career.habr.com/valentina-tihova](https://hh.ru/resume/27d019c7ff039703ba0039ed1f4a41424a6e67)
+- 📙 Check out my [Resume](https://hh.ru/resume/27d019c7ff039703ba0039ed1f4a41424a6e67)
 - ⭐ Top of my fav Data drawing:
   - [Dear Data by Giorgia Lupi](http://www.dear-data.com/theproject)
   - [Datawrapper by Lisa Charlotte Rost](https://lisacharlottemuth.com/)
