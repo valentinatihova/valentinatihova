@@ -7,13 +7,8 @@ Welcome to my page!
 ### About Me
 - 🏦 I'm Valentina, Data Analyst 
 - 💻 I use daily **.py**,  **.sql**
-- 💬 Talk to me about films (find my Film review on [kinopoisk](https://www.kinopoisk.ru/user/5000538/)), python, data visials, BI
-- 📙 Check out my [Resume](https://hh.ru/resume/27d019c7ff039703ba0039ed1f4a41424a6e67)
-- ⭐ Top of my fav Data drawing:
-  - [Dear Data by Giorgia Lupi](http://www.dear-data.com/theproject)
-  - [Datawrapper by Lisa Charlotte Rost](https://lisacharlottemuth.com/)
-  - [Flowingdata by Nathan Yau](https://flowingdata.com/)
-
+- 💬 Talk to me about films (find my Film review on [kinopoisk](https://www.kinopoisk.ru/user/5000538/)), python, data vizs, BI
+- 📙 Check out my [CV](https://docs.google.com/document/d/1Z657MPoA6FHvRxL7bJ10LV-pc2bXTuDY8qIJQsHYuyw/edit?usp=sharing)
 
 ### My Repositories
 
@@ -22,8 +17,6 @@ Welcome to my page!
     <tr border: none;>
       <td><b>Projects</b></td>
       <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -31,14 +24,10 @@ Welcome to my page!
 <tr>
       <td><a href="https://github.com/valentinatihova/DA_projects"><b>Data Analyst projects</b></a></td>
       <td><a href="https://github.com/valentinatihova/DA_projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/valentinatihova/DA_projects?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/valentinatihova/DA_projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/valentinatihova/DA_projects?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/valentinatihova/DA_projects/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentinatihova/DA_projects?style=flat-square&labelColor=343b41"/></a></td>
 </tr>    
 <tr>
       <td><a href="https://github.com/valentinatihova/DS_projects"><b>Data Science projects</b></a></td>
       <td><a href="https://github.com/valentinatihova/DS_projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/valentinatihova/DS_projects?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/valentinatihova/DS_projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/valentinatihova/DS_projects?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/valentinatihova/DS_projects/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentinatihova/DS_projects?style=flat-square&labelColor=343b41"/></a></td>
 </tr>
   </tbody>
 </table>
@@ -56,7 +45,6 @@ Welcome to my page!
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VisualStudioCode logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Windows Azure-282C34?logo=WindowsAzure&logoColor=61DAFB" alt="Windows Azure logo" title="Windows Azure" height="25" />
 </p>
-
 
 
 ### How to rich me
