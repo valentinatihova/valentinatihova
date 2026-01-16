@@ -7,8 +7,7 @@ Welcome to my page!
 ### About Me
 - 🏦 I'm Valentina, Data Analyst 
 - 💻 I use daily **.py**,  **.sql**
-- 💬 Talk to me about films (find my Film review on [kinopoisk](https://www.kinopoisk.ru/user/5000538/)), python, data vizs, BI
-- 📙 Check out my [CV](https://docs.google.com/document/d/1Z657MPoA6FHvRxL7bJ10LV-pc2bXTuDY8qIJQsHYuyw/edit?usp=sharing)
+- 💬 Talk to me about python, data vizs, BI
 
 ### My Repositories
 
