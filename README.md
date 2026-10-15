@@ -1,58 +1,38 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Valentina Tihova, Data & MarTech Architect. Salesforce Data Cloud and customer data platforms for banking, telecom and retail.">
+</picture>
 
-![](https://visitor-badge.glitch.me/badge?page_id=valentinatihova.valentinatihova)
+I design and build customer data platforms for regulated industries: the layer where a bank's customer data is unified, segmented and turned into the right message on the right channel. Eight years across banking, telecom and retail. Since 2025 I lead Salesforce Data Cloud and Marketing Cloud implementations end to end, from the data model to production support.
 
-Welcome to my page!
+### In production
 
-### About Me
-- 🏦 I'm Valentina, Data Analyst 
-- 💻 I use daily **.py**,  **.sql**
-- 💬 Talk to me about python, data vizs, BI
+- **Moved a bank with 30M+ retail customers to a new CDP in six months.** Campaigns, segments and data migrated from a legacy decisioning engine and Oracle to PostgreSQL and Tarantool; five complex flows re-implemented on the new stack.
+- **Took a retail bank's Salesforce Data Cloud from an empty org to live activation.** About 30 data streams and DMOs, identity resolution, calculated insights and 10 segments feeding cross-channel journeys.
+- **Designed custom Viber, SMS and push channels** between Marketing Cloud and a bank's notification platform, and led the incident response when the callback contract changed, tracing the loss down to individual sends.
+- **Built Kafka monitoring for campaign triggers** that detects failures and restarts campaigns automatically.
+- **Shipped 15+ real-time decisioning cases**: offer recalculation, card issuance, instalment products and transactional triggers, from brief to production.
 
-### My Repositories
+### Open source and products
 
-<table width=100%>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Stars</b></td>
-    </tr>
-  </thead>
-  <tbody>
+| Project | What it solves | Status |
+|---|---|---|
+| **[data360-autodoc](https://github.com/valentinatihova/data360-autodoc)** | Generates a data dictionary, field mappings, an ERD and a diffable JSON snapshot for any Salesforce Data Cloud org. Replaces days of hand-written documentation on every implementation. | [![PyPI](https://img.shields.io/pypi/v/data360-autodoc?label=PyPI&color=37486F)](https://pypi.org/project/data360-autodoc/) MIT |
+| **[Suspicious opens in SFMC](https://valentinatihova.com/article/sfmc-false-opens)** | Flags machine-generated email opens using Marketing Cloud Data Views, so engagement reports count people, not security scanners that open mail seconds after delivery. | Method and SQL published |
+| **SFMC Campaign Ops Analytics** | Measures campaign lead time, rework and handoffs from Journey Builder audit logs, as an app inside Marketing Cloud. | In discovery |
 
-<tr>
-      <td><a href="https://github.com/valentinatihova/DA_projects"><b>Data Analyst projects</b></a></td>
-      <td><a href="https://github.com/valentinatihova/DA_projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/valentinatihova/DA_projects?style=flat-square&labelColor=343b41"/></a></td>
-</tr>    
-<tr>
-      <td><a href="https://github.com/valentinatihova/DS_projects"><b>Data Science projects</b></a></td>
-      <td><a href="https://github.com/valentinatihova/DS_projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/valentinatihova/DS_projects?style=flat-square&labelColor=343b41"/></a></td>
-</tr>
-  </tbody>
-</table>
+### Writing
 
-### Tools I use
-<p align="left">
-<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25"/>
-<img src="https://img.shields.io/badge/OraclePL/SQL-282C34?logo=Oracle&logoColor=3178C6" alt="OraclePL/SQL logo" title="OraclePL/SQL" height="25"/>
-<img src="https://img.shields.io/badge/Apache AirFlow-282C34?logo=SAS5&logoColor=E34F26" alt="Apache AirFlow logo" title="Apache AirFlow" height="25" /> 
-<img src="https://img.shields.io/badge/SAS-282C34?logo=SAS5&logoColor=E34F26" alt="SAS logo" title="SAS" height="25" />  
-<img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=1572B6" alt="Git logo" title="Git" height="25" />
-<img src="https://img.shields.io/badge/Grafana-282C34?logo=Grafana&logoColor=3DDC84" alt="Grafana logo" title="Grafana" height="25" />
-<img src="https://img.shields.io/badge/PowerBI-282C34?logo=PowerBI&logoColor=764ABC" alt="PowerBI logo" title="PowerBI" height="25" />
-<img src="https://img.shields.io/badge/Tableau-282C34?logo=Tableau&logoColor=4B32C3" alt="Tableau logo" title="Tableau" height="25" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VisualStudioCode logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/Windows Azure-282C34?logo=WindowsAzure&logoColor=61DAFB" alt="Windows Azure logo" title="Windows Azure" height="25" />
-</p>
+- [Data Cloud documentation should not be written by hand](https://valentinatihova.com/article/data-cloud-metadata-apex) (May 2026). Apex callouts to the Data Cloud REST API that turn stream inventory, mappings and DMO relationships into reproducible documentation.
+- [When open rate lies: detecting suspicious opens in SFMC](https://valentinatihova.com/article/sfmc-false-opens) (April 2026). SQL on Data Views and send timing that separates human opens from scanner traffic.
+- [How we build a day: baby feeding clock](https://valentinatihova.com/article/feeding-clock-in-a-day) (April 2026). A 24-hour circular chart that shows feed volume and timing in one view.
 
+### Toolbox
 
-### How to rich me
-You can reach me at the email in my GitHub profile. Follow my Socials!
+**Customer data:** Salesforce Data Cloud (Data 360), Marketing Cloud Engagement (Journey Builder, Automation Studio, AMPscript, SSJS), CDP and real-time decisioning engines<br>
+**Engineering:** SQL (Oracle, PostgreSQL), Python, Apex, REST APIs, Kafka, Airflow, Docker, Kubernetes<br>
+**Analytics:** Azure Databricks, Power BI, Tableau
 
-[<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/linkedin.png" height="40em" align="center" alt="Follow Valentina on LinkedIn" title="Follow me on LinkedIn"/>](https://linkedin.com/in/valentina-tikhova/)
-[<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/telegram.png" height="40em" align="center" alt="Follow Valentina on Telegram" title="Follow me on Telegram"/>](https://t.me/Tikhova_Valentina)
-[<img src="https://github.com/valentinatihova/valentinatihova/blob/main/socials/instagram.png" height="40em" align="center" alt="Follow Valentina on Instagram" title="Follow me on Instagram"/>](https://instagram.com/valentina.tihova)
+### Contact
 
-
-
-#### 
+[valentinatihova.com](https://valentinatihova.com) · [LinkedIn](https://www.linkedin.com/in/valentina-tihova/) · [valentina.tikhova1@gmail.com](mailto:valentina.tikhova1@gmail.com)
