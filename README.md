@@ -17,7 +17,7 @@ I design and build customer data platforms for regulated industries: the layer w
 
 | Project | What it solves | Status |
 |---|---|---|
-| **[data360-autodoc](https://github.com/valentinatihova/data360-autodoc)** | Generates a data dictionary, field mappings, an ERD and a diffable JSON snapshot for any Salesforce Data Cloud org. Replaces days of hand-written documentation on every implementation. | [![PyPI](https://img.shields.io/pypi/v/data360-autodoc?label=PyPI&color=37486F)](https://pypi.org/project/data360-autodoc/) MIT |
+| **[data360-autodoc](https://github.com/valentinatihova/data360-autodoc)** | Generates a data dictionary, field mappings, an ERD and a diffable JSON snapshot for any Salesforce Data Cloud org. Replaces days of hand-written documentation on every implementation. | [![PyPI](https://img.shields.io/pypi/v/data360-autodoc?label=PyPI&color=37486F&cacheSeconds=3600)](https://pypi.org/project/data360-autodoc/) MIT |
 | **[Suspicious opens in SFMC](https://github.com/valentinatihova/sfmc-false-opens)** | Flags machine-generated email opens using Marketing Cloud Data Views, so engagement reports count people, not security scanners that open mail seconds after delivery. | SQL published, MIT |
 | **[SFMC Campaign Ops Analytics](https://github.com/valentinatihova/sfmc-journey-change-log)** | Measures campaign lead time, rework and handoffs from Journey Builder audit logs, as an app inside Marketing Cloud. First module open-sourced: an offline Journey Change Log report that shows who launched what, and what went live without testing. | In discovery · [v0.1.0](https://github.com/valentinatihova/sfmc-journey-change-log/releases/latest) MIT |
 
