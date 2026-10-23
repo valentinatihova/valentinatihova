@@ -23,9 +23,7 @@ I design and build customer data platforms for regulated industries: the layer w
 
 ### Writing
 
-- [Data Cloud documentation should not be written by hand](https://valentinatihova.com/article/data-cloud-metadata-apex) (May 2026). Apex callouts to the Data Cloud REST API that turn stream inventory, mappings and DMO relationships into reproducible documentation.
 - [When open rate lies: detecting suspicious opens in SFMC](https://valentinatihova.com/article/sfmc-false-opens) (April 2026). SQL on Data Views and send timing that separates human opens from scanner traffic.
-- [How we build a day: baby feeding clock](https://valentinatihova.com/article/feeding-clock-in-a-day) (April 2026). A 24-hour circular chart that shows feed volume and timing in one view.
 
 ### Toolbox
 
