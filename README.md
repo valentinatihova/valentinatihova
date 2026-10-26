@@ -23,7 +23,8 @@ I find where a product's data misleads people, and fix it. Right now that means 
 
 ### Writing
 
-- [When open rate lies: detecting suspicious opens in SFMC](https://valentinatihova.com/article/sfmc-false-opens) (April 2026). SQL on Data Views and send timing that separates human opens from scanner traffic.
+- [A failing build when your Data Cloud data model changes](https://valentinatihova.com/article/data360-schema-drift-ci/) (October 2026). Snapshot a Data 360 org, commit a baseline, and let a weekly GitHub Actions job with data360-autodoc flag schema drift before a dashboard breaks.
+- [When open rate lies: detecting suspicious opens in SFMC](https://valentinatihova.com/article/sfmc-false-opens/) (April 2026). SQL on Data Views and send timing that separates human opens from scanner traffic.
 
 ### Toolbox
 
